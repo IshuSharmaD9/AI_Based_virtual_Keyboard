@@ -80,6 +80,13 @@ This project follows the **3-tier architecture** approach for clean scalability 
 3. Touch detection is calculated using landmark distances.
 4. If two fingertips (e.g., index + thumb) touch inside a keyboard area, the mapped character is added to the output.
 
----
 
-## 📥 Installation
+📌 Future Improvements
+Multilingual virtual keyboard (Hindi, Tamil, etc.)
+
+Predictive text using NLP
+
+Voice-to-text integration
+
+Real-time word suggestion using AI
+
